@@ -1,0 +1,37 @@
+#widget {
+  font-size: 100px;
+  visibility: hidden;
+  display: none;
+}
+
+#widget #region_map_container {
+  font-size: 200px;
+  visibility: hidden;
+  display: none;
+}
+
+#widget #region_map_container.ul.bartop {
+  visibility: hidden;
+  display: none;
+}
+
+#widget ul.bartop {
+  visibility: hidden;
+  display: none;
+}
+
+ul.bartop {
+  visibility: hidden;
+  display: none;
+}
+
+#dynamicLegend_container li:nth-child(odd) {
+  background-color: #cccccc;
+}
+
+/* trailforks route widget embed */
+#widget #details {border: 1px solid #d2d2d2; padding: 5px;}
+#widget #details.col-3 {width: 24%;}
+#widget #details h3 {font-size: 20px; font-weight: normal;}
+#widget #details #title, #widget #details #description, #widget #details #trailstats {display: none;}
+#widget #details #routeTrailLegend {overflow-y: inherit;}
