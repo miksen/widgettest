@@ -137,7 +137,7 @@ div.cck_forms.cck_site div.cck_form input {font-size: initial!important;}
 
 /* trailforks route widget embed */
 #widget #details {border: 1px solid #d2d2d2; padding: 5px;}
-#widget #details.col-3 {width: 24%;}
+#widget #details.col-3 {width: 50%;}
 #widget #details h3 {font-size: 20px; font-weight: normal;}
 #widget #details #title, #widget #details #description, #widget #details #trailstats {display: none;}
 #widget #details #routeTrailLegend {overflow-y: inherit;}
