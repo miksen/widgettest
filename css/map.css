@@ -15,7 +15,7 @@
   display: none;
 }
 
-#widget ul.bartop {
+.map_options ul.bartop {
   visibility: hidden;
   display: none;
 }
