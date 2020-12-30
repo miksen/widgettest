@@ -4,13 +4,13 @@
   display: none;
 }
 
-#widget #region_map_container {
+#widget #region_map_container #map {
   font-size: 200px;
   visibility: hidden;
   display: none;
 }
 
-#widget #region_map_container.ul.bartop {
+#widget #region_map_container #map ul.bartop {
   visibility: hidden;
   display: none;
 }
