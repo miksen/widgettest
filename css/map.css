@@ -15,12 +15,22 @@
   display: none;
 }
 
-.map_options ul.bartop {
+#widget #region_map_container .map_options ul.bartop {
   visibility: hidden;
   display: none;
 }
 
-ul.bartop {
+#widget #region_map_container ul.bartop {
+  visibility: hidden;
+  display: none;
+}
+
+#widget .map_options ul.bartop {
+  visibility: hidden;
+  display: none;
+}
+
+#widget ul.bartop {
   visibility: hidden;
   display: none;
 }
