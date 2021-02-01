@@ -5,3 +5,8 @@ li.menuitem {
 .map_options_bar {
   opacity: unset;
 }
+
+li.floatright.menubutton.clickable.expand_map {
+    color: white;
+    padding-right: 15px;
+}
