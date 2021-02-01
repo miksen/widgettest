@@ -1,3 +1,7 @@
 li.menuitem {
-    display: none !important;
+  display: none !important;
+}
+
+.map_options_bar {
+  opacity: unset;
 }
