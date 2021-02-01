@@ -10,3 +10,8 @@ li.floatright.menubutton.clickable.expand_map {
     color: white;
     padding-right: 15px;
 }
+
+li.floatright.menubutton.clickable.shrink_map {
+    color: white;
+    padding-right: 15px;
+}
